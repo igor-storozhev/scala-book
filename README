@@ -1,0 +1,3 @@
+To compile use 
+sigor@yxa:~/Develop/scala$ scala -nc countchars1.scala countchars1.scala 
+
